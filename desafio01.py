@@ -1,3 +1,7 @@
+print('-------------------------------------------------------')
+print('       Identificando se o número é par ou é impar      ')
+print('-------------------------------------------------------')
+
 nomeUsuario = input('Olá, qual seu nome? ')
 numeroInformado = int(input(nomeUsuario + " me diga um número: "))
 
